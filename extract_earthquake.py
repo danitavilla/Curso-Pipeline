@@ -4,6 +4,7 @@ from datetime import datetime, timedelta
 import os
 
 # testing change
+# This script fetches earthquake data from the USGS API for the last 15 days,
 
 def process_earthquake_data():
 
